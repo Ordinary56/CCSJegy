@@ -1,0 +1,23 @@
+tbody,td,th {
+	color: #000000;
+}
+body {
+	background-color: #E0E0E0;
+}
+a:link {
+	color: #666584;
+}
+a:visited {
+	color: #666584;
+}
+a:hover {
+	color: #666584;
+}
+a:active {
+	color: #666584;
+}
+.stilus1 {color: #ECE9D8}
+.stilus2 {font-size: 10px}
+.stilus3 {
+	font-size: 24px;
+	font-weight: bold;}
